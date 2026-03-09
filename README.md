@@ -1,6 +1,6 @@
 # AWS Serverless AI Chatbot
 
-A cloud-native serverless chatbot built using AWS services and DevOps practices.  
+A cloud native serverless chatbot built using AWS services and DevOps practices.  
 The project demonstrates how to design scalable cloud applications using serverless architecture, infrastructure as code, and CI/CD automation.
 
 ## Architecture
@@ -55,10 +55,17 @@ The CI/CD pipeline automatically deploys updates when code is pushed to the main
 What This Shows Recruiters
 
 This project demonstrates:
-AWS,
-Serverless architecture,
-Terraform (Infrastructure as Code),
-CI/CD pipelines,
-Python backend,
-Cloud automation, and
+
+AWS 
+
+Serverless architecture
+
+Terraform (Infrastructure as Code)
+
+CI/CD pipelines
+
+Python backend
+
+Cloud automation
+
 DevOps practices
