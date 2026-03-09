@@ -32,7 +32,7 @@ The system processes user messages via a REST API and generates responses using 
 ## Deployment
 
 1. Clone the repository
-git clone https://github.com/yourusername/aws-serverless-ai-chatbot.git
+git clone https://github.com/sebastiantnalu-crypto/aws-serverless-ai-chatbot.git
 
 2. Configure AWS credentials
 aws configure
