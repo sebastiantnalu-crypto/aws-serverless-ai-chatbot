@@ -52,20 +52,3 @@ The CI/CD pipeline automatically deploys updates when code is pushed to the main
 - Implement authentication using AWS Cognito
 
   
-What This Shows Recruiters
-
-This project demonstrates:
-
-AWS 
-
-Serverless architecture
-
-Terraform (Infrastructure as Code)
-
-CI/CD pipelines
-
-Python backend
-
-Cloud automation
-
-DevOps practices
